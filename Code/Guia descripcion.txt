@@ -1,0 +1,23 @@
+Origen de datos
+
+
+Movilidad:
+    google:  href="https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv?cachebust=94537edba4db1128"
+       Documentacion: https://www.google.com/covid19/mobility/data_documentation.html?hl=es
+    Apple:  https://covid19-static.cdn-apple.com/covid19-mobility-data/2013HotfixDev14/v3/en-us/applemobilitytrends-2020-07-30.csv
+
+
+
+Molinetes:
+
+
+Combustibles
+
+
+Trenes:
+
+
+Colectivos:
+
+
+Peajes:
